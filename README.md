@@ -1,0 +1,1 @@
+A Python implementation of a Binary Search Tree (BST) with insertion, search, and common traversal methods (inorder, preorder, postorder, and level-order). The main function demonstrates building a tree and performing traversals and searches.
